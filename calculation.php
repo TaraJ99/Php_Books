@@ -92,11 +92,10 @@ echo "I can buy {$total} potatoes";
 echo "<br>";
 $no_of_tablets = 5;
 $cost_price = 167.0;
-$tablets_to_buy = 4;
+$tablets_to_buy = 40;
 $pay_price = $tablets_to_buy * $cost_price;
 echo "It will be {$pay_price}";
 ?>
     
 </body>
->>>>>>> cad36a54fb3a7c348cd374cc0f21abd9bdbc7af1
 </html>
